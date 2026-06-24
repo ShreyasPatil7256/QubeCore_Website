@@ -1,11 +1,11 @@
-import { Body } from './components/Body'
+import { Body } from './Components/Body'
 import './App.css'
 import { Routes, Route } from 'react-router-dom'
-import { MotherBoards } from './components/MotherBoards'
-import { CPUs } from './components/CPUs'
-import { GPUs } from './components/GPUs'
-import { RAMs } from './components/RAMs'
-import { About } from './components/About'
+import { MotherBoards } from './Components/MotherBoards'
+import { CPUs } from './Components/CPUs'
+import { GPUs } from './Components/GPUs'
+import { RAMs } from './Components/RAMs'
+import { About } from './Components/About'
 
 function App() {
   return (
